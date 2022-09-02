@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi ✨, I'm Assia Elguerch</h1>
 <h3 align="center">Computer science student & Future Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
+<img align="right" alt="Coding" width="400" src="https://inekescheffers.files.wordpress.com/2016/05/1-logo_bovenaan_achtergrond-1.png">
 - 🔭 I’m currently working on **NAVC**
 
 - 🌱 I’m currently learning **CS50x**
