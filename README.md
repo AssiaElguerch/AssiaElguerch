@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi ✨, I'm Assia Elguerch</h1>
 <h3 align="center">Computer science student & Future Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="[https://www.nexthink.com/wp-content/uploads/2019/07/Girl_t-shirt.png](https://inekescheffers.files.wordpress.com/2016/05/1-logo_bovenaan_achtergrond-1.png)">
+<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://inekescheffers.files.wordpress.com/2016/05/1-logo_bovenaan_achtergrond-1.png">
 - 🔭 I’m currently working on **NAVC**
 
 - 🌱 I’m currently learning **CS50x**
